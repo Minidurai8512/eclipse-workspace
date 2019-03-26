@@ -82,7 +82,7 @@ public class submit extends JFrame {
 		panel.add(textField_1);
 		textField_1.setColumns(10);
 		
-		JLabel lblFillTheReson = new JLabel("Fill the reson");
+		JLabel lblFillTheReson = new JLabel("Fill the reason");
 		lblFillTheReson.setBounds(55, 95, 78, 14);
 		panel.add(lblFillTheReson);
 		
@@ -94,7 +94,7 @@ public class submit extends JFrame {
 		btnAddFeesDetails.setBounds(38, 245, 127, 23);
 		panel.add(btnAddFeesDetails);
 		
-		JButton btnNewButton = new JButton("Add Cousres");
+		JButton btnNewButton = new JButton("Add Courses");
 		btnNewButton.setBounds(244, 245, 134, 23);
 		panel.add(btnNewButton);
 	}
